@@ -1,5 +1,5 @@
 # NuWLS-BandHS
-Incorporating Multi-armed Bandit with Local Search for MaxSATs
+Incorporating Multi-armed Bandit with Local Search for MaxSAT
 ----
 This repository contains the code of the NuWLS-BandHS algorithm for the MaxSAT proposed in our paper: <br> <br>
 [Incorporating Multi-armed Bandit with Local Search for MaxSAT](https://arxiv.org/abs/2211.16011) <br>
