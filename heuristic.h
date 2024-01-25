@@ -7,7 +7,7 @@
 
 void BandHS::init(vector<int> &init_solution)
 {
-    local_times = 0;
+    local_times = 0;aaa
     local_times_hard = 0;
     if_exceed = 0;
     soft_large_weight_clauses_count = 0;
