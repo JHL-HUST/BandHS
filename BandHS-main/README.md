@@ -9,7 +9,6 @@ Installation
 ----
 On a Unix/Linux machine execute the following commands: <br> <br>
 
-unzip BandHS-main.zip <br>
 cd BandHS-main <br>
 make <br> <br>
 
