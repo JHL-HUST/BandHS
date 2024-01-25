@@ -1,7 +1,7 @@
 # BandHS
 Incorporating Multi-armed Bandit with Local Search for MaxSAT
 ----
-This repository contains the code to the BandHS algorithm for the MaxSAT proposed in our paper: <br> <br>
+This repository contains the code of the BandHS algorithm for the MaxSAT proposed in our paper: <br> <br>
 [Incorporating Multi-armed Bandit with Local Search for MaxSAT](https://arxiv.org/abs/2211.16011) <br>
 Jiongzhi Zheng, Kun He, Jianrong Zhou, Yan Jin, Chu-Min Li, Felip Manyà <br> <br>
 
